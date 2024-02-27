@@ -1,0 +1,14 @@
+{
+  "name": "website-menu-16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:scss": "sass scss/style.scss css/style.css --watch --style compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.6.2"
+  }
+}
